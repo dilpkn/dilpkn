@@ -7,8 +7,11 @@
 
 ## 🛠 My Tech Stack
 Backend: Java, Spring Boot, Maven, Gradle
+
 Database: MySQL, SQL
+
 Tools: Git, IntelliJ IDEA
+
 Testing: JUnit, Mockito
 
-## 👩‍💻 My [CV](url)
+## 👩‍💻 My [CV](https://github.com/dilpkn/CV/blob/main/Diana%20Lipkina%20CV.pdf)
