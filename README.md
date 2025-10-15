@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Diana!
 
-<!--
-**dilpkn/dilpkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Backend Developer
+- ☕ Passionate about Java and Spring
+- 🎯 Interested in competitive programming
 
-Here are some ideas to get you started:
+## 🛠 My Tech Stack
+```java
+public class TechStack {
+    public static void main(String[] args) {
+        Map<String, List<String>> myStack = new HashMap<>();
+        myStack.put("backend", Arrays.asList("Java", "Spring Boot", "Maven", "Gradle"));
+        myStack.put("database", Arrays.asList("MySQL", "SQL"));
+        myStack.put("tools", Arrays.asList("Git", "IntelliJ IDEA"));
+        myStack.put("testing", Arrays.asList("JUnit", "Mockito"));
+        
+        System.out.println("My Tech Stack: " + myStack);
+    }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My CV
