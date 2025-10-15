@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Backend Developer
-- ☕ Passionate about Java and Spring
+- ☕ Passionate about Java and Spring  
 - 🎯 Interested in competitive programming
 
 ## 🛠 My Tech Stack
@@ -18,4 +18,4 @@ public class TechStack {
         
         System.out.println("My Tech Stack: " + myStack);
     }
-}
+}```
