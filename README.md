@@ -18,5 +18,4 @@ public class TechStack {
         System.out.println("My Tech Stack: " + myStack);
     }
 }```
-## 🛠 My CV
-https://github.com/dilpkn/CV/blob/main/Diana%20Lipkina%20CV.pdf
+## 🛠 My [CV](https://github.com/dilpkn/CV/blob/main/Diana%20Lipkina%20CV.pdf)
