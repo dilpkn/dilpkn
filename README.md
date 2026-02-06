@@ -6,9 +6,9 @@
 - 🎯 Interested in competitive programming
 
 ## 🛠 My Tech Stack
-Backend: Java, Spring Boot, Maven, Gradle
+Backend: Java, Spring (Boot, MVC, JDBS), Maven, Gradle
 
-Database: MySQL, SQL
+Database: PostgreSQL, MySQL, SQL
 
 Tools: Git, IntelliJ IDEA
 
