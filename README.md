@@ -14,4 +14,4 @@ Tools: Git, IntelliJ IDEA
 
 Testing: JUnit, Mockito
 
-## 👩‍💻 My [CV](https://github.com/dilpkn/CV/blob/main/Diana%20Lipkina%20CV.pdf)
+## 👩‍💻 My [CV](https://github.com/dilpkn/CV/blob/ab699d1f4fd7d7b7463800ea1424449cce8843ce/Diana%20Lipkina%20cv.pdf)
